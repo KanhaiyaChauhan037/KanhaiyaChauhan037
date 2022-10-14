@@ -16,7 +16,10 @@
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Kanhaiya Chauhan 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
-      
+
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiyachauhan037" alt="kanhaiyachauhan037" /></a> </p>
+</br>
       
    ## 🙋‍♂️ About Me
       
