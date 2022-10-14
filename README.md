@@ -3,26 +3,26 @@
       </div>
       
       
-      <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Kanhaiya Chauhan <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Kanhaiya Chauhan <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
-      <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShravaniMishra&label=Profile%20views&color=0e75b6&style=flat" alt="ShravaniMishra" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShravaniMishra&label=Profile%20views&color=0e75b6&style=flat" alt="ShravaniMishra" /> </p>
       
-      <h3 align="center">A passionate Full Stack Developer in making</h3>
+   <h3 align="center">A passionate Full Stack Developer in making</h3>
       
-      <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
       
-      <p align="center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Shravani 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Sports 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+   <p align="center" color:"red">
+     <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Kanhaiya Chauhan 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
       
       
-      ## 🙋‍♂️ About Me
+   ## 🙋‍♂️ About Me
       
-      - 🔭 I’m currently pursuing Full Stack Web Development
+   - 🔭 I’m currently pursuing Full Stack Web Development
       
-      - 🌱 I’m currently learning *Frontend*
+   - 🌱 I’m currently learning *Frontend*
       
       - 📄 Check out my [Resume]
       
@@ -32,7 +32,7 @@
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
       
-      - 📫 How to reach me *shravniguddi@gmail.com*
+      - 📫 How to reach me *kanhaiyagkp037@gmail.com*
       
       - ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
       
