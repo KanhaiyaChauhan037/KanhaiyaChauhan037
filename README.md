@@ -1,5 +1,5 @@
 ### <h1>Hi I'm Kanhaiya chauhan</h1> 👋
-
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Kanhaiya Chauhan. Full-Stack Web Developer!" src="./assets/gh-readme-header.png" /></a></p>
 <!--
 **KanhaiyaChauhan037/KanhaiyaChauhan037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
