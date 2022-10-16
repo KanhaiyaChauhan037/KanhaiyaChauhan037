@@ -7,7 +7,7 @@
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=KanhaiyaChauhan037&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiya chauhan" /> </p>
       
-   <h3 align="center">A passionate Full Stack Developer in making</h3>
+   <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
       
    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
       
