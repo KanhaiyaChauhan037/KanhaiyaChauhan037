@@ -114,19 +114,19 @@
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <a href="https://github.com/KanhaiyaChauhan037/github-readme-stats"><img alt="ShravaniMishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaChauhan037&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/KanhaiyaChauhan037/github-readme-stats"><img alt="Kanhaiya Chauhan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaChauhan037&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
             </p>      
            <br/>
          <p align="center">
           <a href="https://github.com/KanhaiyaChauhan037/github-readme-streak-stats">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShravaniMishra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KanhaiyaChauhan037&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kanhaiya Chauhan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KanhaiyaChauhan037&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
           </a>
       </p>                                                                                                                                              
       
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <a href="https://github.com/KanhaiyaChauhan037/github-readme-stats"><img alt="ShravaniMishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=KanhaiyaChauhan037&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" /></a>
+          <a href="https://github.com/KanhaiyaChauhan037/github-readme-stats"><img alt="Kanhaiya Chauhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=KanhaiyaChauhan037&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Kanhaiya Chauhan" /></a>
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       
@@ -134,7 +134,7 @@
       <br/>
       <br/>
       
-      <a href="https://github.com/KanhaiyaChauhan037/github-readme-activity-graph"><img alt="Shravani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KanhaiyaChauhan037&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+      <a href="https://github.com/KanhaiyaChauhan037/github-readme-activity-graph"><img alt="Kanhaiya Chauhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KanhaiyaChauhan037&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
       
       <br/>
       <br/>
