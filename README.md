@@ -1,7 +1,7 @@
-  <div align="center">
-        <img src="https://camo.githubusercontent.com/5a529ba6f025b840982fbfd00ef6b2fe566554cf7288c3a5ccc4aaf70d51ad09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f65342f39362f62396534393630633134373663373830343364343939643937356638366364622e676966" width="40%"/>
-      </div>
-      
+  
+  <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+    
       
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Kanhaiya Chauhan <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
@@ -15,11 +15,11 @@
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Kanhaiya Chauhan 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
-      
-
- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiyachauhan037" alt="kanhaiyachauhan037" /></a> </p>
+    
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KanhaiyaChauhan037&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Kanhaiya Chauhan" /></a> </p>
 </br>
+<div style={{width:"300px", height:"300", marginTop:"500px"}}>
+<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a42b3n48m5m22lwh4gzsuqdb8fef2m1sdioobrc2&rid=giphy.gif&ct=g" alt="">
       
    ## 🙋‍♂️ About Me
       
@@ -29,7 +29,7 @@
       
       - 📄 Check out my [Resume]
       
-      - 💻 Know more about me [Portfolio]("")
+      - 💻 Know more about me [My portfolio](https://KanhaiyaChauhan037.github.io/)
       
       - 💻 All of my projects are available at **[My Github Repositories](https://github.com/KanhaiyaChauhan037?tab=repositories)**
       
@@ -40,7 +40,7 @@
       - ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
       
       
-      <hr />
+     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
       
       
       <h2 align="center">📱 Connect with me</h2>
@@ -50,7 +50,7 @@
      <a href="https://codesandbox.com/https://codesandbox.io/u/kanhaiyachauhan037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/kanhaiyachauhan037" height="30" width="40" /></a>
       <a href="https://www.linkedin.com/in/kanhaiya-chauhan-867794236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KanhaiyaChauhan037" height="30" width="40" /></a>
       </p>
-      <br />
+  
       
       <hr />
       
@@ -101,7 +101,7 @@
       
       <br />
       <br /> -->
-      <br/>
+     
       
       
       
@@ -122,7 +122,7 @@
           </a>
       </p>                                                                                                                                              
       
-        <br/>
+   
         <br/>
            <p align="center">                                                                                                 
           <a href="https://github.com/KanhaiyaChauhan037/github-readme-stats"><img alt="Kanhaiya Chauhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=KanhaiyaChauhan037&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Kanhaiya Chauhan" /></a>
@@ -131,9 +131,8 @@
       
       
       <br/>
-      <br/>
+   
       
       <a href="https://github.com/KanhaiyaChauhan037/github-readme-activity-graph"><img alt="Kanhaiya Chauhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KanhaiyaChauhan037&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    
       
-      <br/>
-      <br/>
