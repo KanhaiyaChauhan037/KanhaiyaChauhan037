@@ -1,7 +1,7 @@
   
   <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-    
+  
       
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Kanhaiya Chauhan <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
@@ -16,7 +16,7 @@
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Kanhaiya Chauhan 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
     
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KanhaiyaChauhan037&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Kanhaiya Chauhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KanhaiyaChauhan037&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="Kanhaiya Chauhan" /></a> </p>
 </br>
 <div style={{width:"300px", height:"300", marginTop:"500px"}}>
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a42b3n48m5m22lwh4gzsuqdb8fef2m1sdioobrc2&rid=giphy.gif&ct=g" alt="">
