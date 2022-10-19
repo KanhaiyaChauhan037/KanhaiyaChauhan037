@@ -1,6 +1,6 @@
   
-  <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img align="center" width="100%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   
       
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Kanhaiya Chauhan <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
@@ -40,7 +40,7 @@
       - ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
       
       
-     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+     <img width="100%"  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
       
       
       <h2 align="center">📱 Connect with me</h2>
