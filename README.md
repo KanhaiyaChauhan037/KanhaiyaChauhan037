@@ -27,7 +27,7 @@
       
    - 🌱 I’m currently learning *Frontend*
       
-      - 📄 Check out my [Resume]
+      - 📄 [Check out my Resume](https://drive.google.com/file/d/19W_ve-MNUwEkv5ABa1n8YBR1Kk2fbiVj/view)
       
       - 💻 Know more about me [My portfolio](https://KanhaiyaChauhan037.github.io/)
       
