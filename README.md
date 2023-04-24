@@ -29,7 +29,7 @@
       
       - 📄 [Check out my Resume](https://drive.google.com/file/d/19W_ve-MNUwEkv5ABa1n8YBR1Kk2fbiVj/view)
       
-      - 💻 check my portfolio:- https://KanhaiyaChauhan037.github.io/
+      - 💻 check my portfolio:- https://kanhaiyachauhan037.github.io/
      
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
