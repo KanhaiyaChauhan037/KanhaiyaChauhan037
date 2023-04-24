@@ -29,13 +29,13 @@
       
       - 📄 [Check out my Resume](https://drive.google.com/file/d/19W_ve-MNUwEkv5ABa1n8YBR1Kk2fbiVj/view)
       
-      - 💻 check my portfolio:- https://KanhaiyaChauhan037.github.io/
+      - 💻 check my portfolio:- **https://KanhaiyaChauhan037.github.io/**
       
       - 💻 All of my projects are available at **[My Github Repositories](https://github.com/KanhaiyaChauhan037?tab=repositories)**
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
       
-      - 📫 How to reach me *kanhaiyagkp037@gmail.com*
+      - 📫 How to reach me **kanhaiyagkp037@gmail.com**
       
       - ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
       
