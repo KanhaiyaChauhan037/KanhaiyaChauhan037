@@ -128,7 +128,7 @@
       <br/>
   
 <p align="left"></p>
-<img alt="graph's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KanhaiyaChauhan037&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+ <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanhaiyaChauhan037&theme=github_dark" alt="KanhaiyaChauhan037" align = "center"/></p>
   
     
 <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&amp;color=36BCF7FF&amp;size=19&amp;lines=𝕋𝕙𝕒𝕟𝕜𝕤!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
