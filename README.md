@@ -1,5 +1,5 @@
   
-  <img align="center" width="100%" height="400px" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  <img align="center" width="100%" height="300px" src="https://media.licdn.com/dms/image/D5612AQEZ2Cd1DmafpQ/article-cover_image-shrink_600_2000/0/1699194763604?e=2147483647&v=beta&t=QscK67QY6r974hvJr6zTTJRMl0_LCZd4YjfQ6OVs5Ww" />
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   
       
