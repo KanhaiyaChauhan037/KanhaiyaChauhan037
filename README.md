@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <br/>
 
@@ -219,6 +219,6 @@ Performance Engineering   ██████████████░░░░
 
 <br/><br/>
 
-<img src="assets/orbit-footer.svg" width="100%"/>
+<img src="orbit-footer.svg" width="100%"/>
 
 </div>
